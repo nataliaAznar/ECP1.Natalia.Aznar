@@ -11,6 +11,5 @@ public class Prueba {
 		this.a = a;
 	}
 	
-	
 
 }
