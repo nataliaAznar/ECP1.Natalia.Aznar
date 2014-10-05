@@ -2,6 +2,7 @@ package es.natalia.principal;
 
 public class Principal {
 	int x;
+	int b;
 	
 	public int getX() {
 		return x;
