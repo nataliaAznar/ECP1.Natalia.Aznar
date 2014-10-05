@@ -4,6 +4,10 @@ public class Principal {
 	int x;
 	int b;
 	
+	public int getB() {
+		return b;
+	}
+	
 	public int getX() {
 		return x;
 	}
