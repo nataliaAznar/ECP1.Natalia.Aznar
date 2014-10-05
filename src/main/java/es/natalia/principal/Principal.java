@@ -8,6 +8,10 @@ public class Principal {
 		return b;
 	}
 	
+	public void setB(int b) {
+		this.b = b;
+	}
+	
 	public int getX() {
 		return x;
 	}
